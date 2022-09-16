@@ -1,17 +1,9 @@
-# CS 5010 Semester Project
+# Capstone Java MVC Project
 
 This repo represents the coursework for CS 5010, the Fall 2022 Edition!
 
-**Name:** Siddharth Lalit Chakravorty ; Prajwal Vijaykumar Chinchmalatpure
-
-**Email:** chakravorty.s@northeastern.edu ; chinchmalatpure.p@northeastern.edu
-
-**Preferred Name:** Siddharth Lalit Chakravorty ; Prajwal Vijaykumar Chinchmalatpure
-
 
 ### About/Overview
-
-Give a general overview of the problem and how your program solves the problem.
 
 -> Problem Statement: Implement a board game supporting all the features as per the requirements using MVC design pattern. 
 
