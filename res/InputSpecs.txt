@@ -1,0 +1,47 @@
+40 24 Area51
+10 Alien
+Yeti the snow alien
+22
+0 0 4 3 Cafeteria1
+5 0 16 3 ConferenceRoomWest
+17 0 24 3 QuantumComputingLab
+25 0 29 3 TrashRoomWest
+30 0 40 9 AlienSpecimenStorageSouthSide
+0 4 29 5 WestCorridor
+0 6 5 8 Kitchen
+0 9 5 11 ElevatorRoom
+6 6 20 11 HallWay
+21 6 29 9 MeetingRoom
+0 12 5 16 Observatory1
+6 12 10 16 CentralLab
+11 12 20 16 BreakOutRoom
+21 10 29 16 UFOResearchCenter
+30 10 40 16 UFOStorageAreaSouthSide
+0 17 10 20 ControlRoom2
+0 21 10 24 SecurityRoom
+11 17 20 24 AlienSpecimenStorageEastSide
+21 17 28 24 UFOStorageAreaEastSide
+29 17 40 21 Observatory2
+29 22 37 24 Cafeteria2
+38 22 40 24 Helipad
+20
+10 3 LaserGun
+4 2 SharpPen
+12 2 Shovel
+8 3 SharpKnife
+0 3 AK47
+15 3 MachineGun
+2 4 GammaRayBlaster
+16 1 GolfStick
+1 2 Acid
+19 2 Revolver
+6 2 Hammer
+2 4 LaserCannonBall
+6 2 BroomStick
+18 3 ElectricPulse
+13 1 ItchingPowder
+18 2 Rope
+11 2 Boomerang
+19 2 Nunchuks
+9 3 Katana
+7 3 Shuriken
